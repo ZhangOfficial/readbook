@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## ZHANG OFFICIAL
+*本项目按时间顺序记录2022-01-01开始的学习路线*
 
-You can use the [editor on GitHub](https://github.com/ZhangOfficial/readbook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### 2022-01-02 《SQL必知必会》、《MySQL必知必会》
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+此为系列书籍，行文基本相仿，介绍了基本的SQL操作知识。
 
-### Markdown
+但均未涉及原理以及架构内容。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2022-01-06 《鸟哥的Linux私房菜-基础篇》
 
-```markdown
-Syntax highlighted code block
+书中涵盖内容十分丰富，从操作的各种指令入手，讲解了一般使用能用到的大部分功能，看完足以跨过零基础到简答使用Linux系统的门槛。
 
-# Header 1
-## Header 2
-### Header 3
+内容主要是基于虚拟机上的centos，自己在mint上动手实操时候有不少内容不相同，需要灵活应对。
 
-- Bulleted
-- List
+#### 2022-02-15 《动手学深度学习》
 
-1. Numbered
-2. List
+本书从基础的深度学习内容，逐步讲解了CNN、RNN的原理以及发展，各个迭代之间的不同。也对应用内容，如CV、NLP进行了讲解与演示。
 
-**Bold** and _Italic_ and `Code` text
+主题内容建设于已经封装好的运行库PyTorch、TensorFlow、MXNet等，对于实现细节重点阐述了层层架构的内容，偏向于工程方向教学。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhangOfficial/readbook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本书优势在于有配套的教学视频，完整的代码信息。更进一步学习可以挑战自己通过numpy实现已经封装好的算法内容。
